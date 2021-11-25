@@ -1,22 +1,23 @@
 {
   "main": {
-    "name":"Nikki Dodge Portfolio",
-    "description":"",
+    "title": "Nikki Dodge Portfolio",
+    "name":"Nikki Dodge",
+    "description":"Full Stack MERN Developer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I’m new to the world of web development but have been no stranger to technology. Expertised in DSLR camera processes and Adobe applications, my profession prior to computers involved Wedding & Festival Photography, as well as the team photographer for a Division I football team. I spend most of my time at festivals and traveling across different national parks and different countries! Always looking for a new adventure and not afraid to ask the question \"why\"?",
+    "contactmessage":"Want to create something awesome or just get in touch? Message Me.",
+    "email": "nicoledodge5@gmail.com",
+    "phone": "972-523-3420",
+    "github":"https://github.com/nicoledodge",
+    "project":"https://nicoledodge.github.io/TravelBuddyApp/#",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://nikkidodgephotography.com/",
+    "resumedownload":"https://docs.google.com/document/d/1kPXvCKBkf-GCRxMeYiovDpXhS-z0BnfxlxJVreFI2H8/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -46,19 +47,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Some of my most valuable skills and the amount mastered of each.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Texas Austin",
+        "degree":"FULL-STACK PROGRAMMING PROFESSIONAL CERTIFICATE",
+        "graduated":"December 2021",
+        "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Texas State University",
+        "degree":"BA International Relations",
+        "graduated":"May 2020",
+        "description":" "
       }
     ],
     "work":[
