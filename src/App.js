@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ReactGA from "react-ga";
 import $ from "jquery";
 import "./App.css";
-import Header from "./Components/Header";
+import Home from "./Components/Home";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
@@ -43,7 +43,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main} />
+        <Home data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
@@ -55,3 +55,9 @@ class App extends Component {
 }
 
 export default App;
+// import React from "react";
+// import PortfolioContainer from "./PortfolioContainer";
+//
+// const App = () => <PortfolioContainer />;
+//
+// export default App;
