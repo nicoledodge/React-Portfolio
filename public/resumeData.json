@@ -77,33 +77,33 @@
     "skills":[
       {
         "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML",
         "level":"80%"
       },
       {
         "name":"Javascript",
-        "level":"60%"
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"HTML",
+        "level":"100%"
       },
       {
         "name":"mySQL",
-        "level":"80%"
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Turtle Trivia Quiz",
+        "category":"Javascript",
+        "image":"turtle quiz demo.gif",
+        "url":"https://nicoledodge.github.io/Turtle-Trivia-Quiz/"
       },
       {
         "title":"Fury Fighting Gear",
