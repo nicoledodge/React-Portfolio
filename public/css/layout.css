@@ -7,7 +7,7 @@
 
    TOC:
    a. General Styles
-   b. Home Styles
+   b. Header Styles
    c. About Section
    d. Resume Section
    e. Portfolio Section
@@ -25,7 +25,7 @@
 body { background: #0f0f0f; }
 
 /* ------------------------------------------------------------------ */
-/* b. Home Styles
+/* b. Header Styles
 /* ------------------------------------------------------------------ */
 
 header {

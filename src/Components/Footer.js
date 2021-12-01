@@ -22,6 +22,10 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
 
+              <ul className="copyright">
+                <li>&copy; Copyright 2021 Nikki Dodge</li>
+
+              </ul>
             </div>
           </Fade>
 

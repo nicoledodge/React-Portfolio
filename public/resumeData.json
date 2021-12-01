@@ -11,10 +11,8 @@
     "github":"https://github.com/nicoledodge",
     "project":"https://nicoledodge.github.io/TravelBuddyApp/#",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Dallas",
+      "state":"Texas"
     },
     "website": "https://nikkidodgephotography.com/",
     "resumedownload":"https://docs.google.com/document/d/1kPXvCKBkf-GCRxMeYiovDpXhS-z0BnfxlxJVreFI2H8/edit?usp=sharing",

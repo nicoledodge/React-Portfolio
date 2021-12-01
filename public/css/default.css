@@ -26,9 +26,9 @@ e. Others
 /* a. Webfonts and Icon fonts
  ------------------------------------------------------------------ */
 
-/*@import url("fonts.css");*/
-/*@import url("fontello/css/fontello.css");*/
-/*@import url("font-awesome/css/font-awesome.min.css");*/
+@import url("fonts.css");
+@import url("fontello/css/fontello.css");
+@import url("font-awesome/css/font-awesome.min.css");
 
 /* ------------------------------------------------------------------
 /* b. Reset
@@ -86,8 +86,8 @@ pre {
    white-space: pre-wrap;
    word-wrap: break-word;
 }
-/*keeps giving me errors so i commented it out*/
-/*blockquote, q { quotes: &#8220 &#8220; }*/
+
+blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {

@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import ReactCanvasNest from 'react-canvas-nest';
 
 class Home extends Component {
   render() {
