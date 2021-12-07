@@ -3,9 +3,8 @@ React.
 
 ##  Demo
 #### Products Demo
-![Products Demo]()  
+![Products Demo](https://github.com/nicoledodge/react-portfolio/blob/main/public/images/react%20demo.gif?raw=true)  
 
-[comment]: <> ([Link to Video Walk-Through]&#40;https://drive.google.com/file/d/1V1kBbZntQj3r8PSAeS-tIZs5Tg8QBryk/view&#41;)
 
 ## Licenses
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
